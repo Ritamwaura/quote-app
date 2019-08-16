@@ -12,4 +12,8 @@ quote: Quotes[] =[
 new Quotes(1,'love is power','Rita','love is powerfull'),
 
 ];
+constructor(){}
+ngOnit{
+  
+}
 }
