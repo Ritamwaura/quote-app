@@ -1,6 +1,8 @@
 # Myquote
-
+Is a project where the user can creat quotes  and have those quotes cvoted whether they are terrible or inspiaring
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+## Author 
+Rita Mwaura
 
 ## Development server
 
